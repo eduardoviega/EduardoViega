@@ -1,9 +1,12 @@
+![giphy](https://user-images.githubusercontent.com/62398226/166608314-98d81115-11b9-4778-9986-eb56f36a7403.gif)
+
+##
+  
 - 💻 I’m currently working as Software Test Analist at Leigado.
 - 🎯 I’m currently learning Java and C.
 - 🎓 I'm currently studying Software Engineer at UTFPR-DV.
   
 ##
-  
   
 <div align="innitial">
   <a href="https://github.com/EduardoViega">
