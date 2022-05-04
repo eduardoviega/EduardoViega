@@ -3,9 +3,7 @@
 
 ##
   
-- 💻 I’m currently working as Software Test Analist at Leigado.
-- 🎯 I’m currently learning Java and C.
-- 🎓 I'm currently studying Software Engineer at UTFPR-DV.
+Sou Analista de testes de software na Leigado, no momento estou cursando Engenharia de Software na UTFPR-DV e sou Técnico em Informática para a Internet pelo IFSC. Tenho conhecimento sobre as linguagens Java, C, HTML, CSS, JavaScript e Pyton, com prototipação pelo Figma e possuo um nível intermediário de Inglês.
   
 ##
   
