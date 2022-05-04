@@ -4,11 +4,11 @@
   
   ##
 
-  Sou Analista de testes de software na Leigado, no momento estou cursando Engenharia de Software na UTFPR-DV e sou Técnico em Informática para a Internet pelo IFSC. Tenho conhecimento sobre as linguagens Java, C, HTML, CSS, JavaScript e Pyton, com prototipação pelo Figma e possuo um nível intermediário de Inglês.
-
+  I'm software test analist at Leigado, I am currently studying Software Engineering at UTFPR-DV and I am a Computer Technician for the Internet at IFSC. I have knowledge about Java, C, HTML, CSS, JavaScript and Pyton languages, with Figma prototyping and I have an intermediate level of English.
+  
   ##
 
-  <div align="innitial">
+  <div>
     <a href="https://github.com/EduardoViega">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoviega&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   </div>  
@@ -29,5 +29,4 @@
     <a href = "mailto:eduardoviega12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/eduardooviega/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   </div>
-  
 </div>
