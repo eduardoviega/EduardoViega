@@ -4,7 +4,7 @@
   
   ##
 
-  I'm software test analist at Leigado, I am currently studying Software Engineering at UTFPR-DV and I am a Computer Technician for the Internet at IFSC. I have knowledge about Java, C, HTML, CSS, JavaScript and Pyton languages, with Figma prototyping and I have an intermediate level of English.
+  I'm software test analyst at Leigado, I am currently studying Software Engineering at UTFPR-DV and I am a Computer Technician for the Internet at IFSC. I have knowledge about Java, C, HTML, CSS, JavaScript and Python languages, with Figma prototyping and I have an intermediate level of English.
   
   ##
 
