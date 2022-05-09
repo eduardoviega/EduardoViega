@@ -1,13 +1,25 @@
 <div align="center">
   
-![giphy](https://user-images.githubusercontent.com/62398226/166610737-f3db3c82-d86c-40be-b367-35501952f3c8.gif)
+  ![giphy](https://user-images.githubusercontent.com/62398226/166610737-f3db3c82-d86c-40be-b367-35501952f3c8.gif)
   
   ##
-
-  I'm software test analyst at Leigado, I am currently studying Software Engineering at UTFPR-DV and I am a Computer Technician for the Internet at IFSC. I have knowledge about Java, C, HTML, CSS, JavaScript and Python languages, with Figma prototyping and I have an intermediate level of English.
   
-  ##
+  <div align="start">
+    
+    -Software test analyst at Leigado;
 
+    -Studying Software Engineering at UTFPR-DV;
+
+    -Computer Technician for the Internet at IFSC;
+
+    -Advanced level of English.
+
+    -Knowledge about languages Java, C, HTML, CSS, JavaScript, Python and prototyping with Figma.
+    
+  </div>
+    
+  ##
+  
   <div>
     <a href="https://github.com/EduardoViega">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoviega&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
