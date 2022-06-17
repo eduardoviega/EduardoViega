@@ -44,10 +44,10 @@
   ##
 
   <h3>Connect with me:</h3>  
-  <div> 
-    <a href="https://www.linkedin.com/in/eduardo-viega/" target="_blank" ><img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" target="_blank" height="30" width="55" target="_blank"></a>
+  <div>
+    <a href="https://www.linkedin.com/in/eduardo-viega/" rel="noopener"><img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="55" target="_blank"></a>
     <a href = "mailto:eduardoviega12@gmail.com"><img src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" height="27" width="38" target="_blank"></a> 
-    <a href="https://www.instagram.com/eduardooviega/" target="_blank" ><img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" target="_blank" height="30" width="55" target="_blank"></a>
+    <a href="https://www.instagram.com/eduardooviega/" rel="noopener"><img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" height="30" width="55" target="_blank"></a>
   </div>
   
   ![snake gif](https://github.com/EduardoViega/EduardoViega/blob/output/github-contribution-grid-snake.svg)
