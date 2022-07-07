@@ -1,7 +1,7 @@
 <div align="center">
   
   ![giphy](https://user-images.githubusercontent.com/62398226/166610737-f3db3c82-d86c-40be-b367-35501952f3c8.gif)
-  
+  	
 </div>
   
   ##
@@ -21,8 +21,8 @@
 <div align="center">
   <div>
     <a href="https://github.com/eduardoviega">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoviega&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoviega&layout=compact&langs_count=7&theme=github_dark"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoViega&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoViega&layout=compact&langs_count=7&theme=github_dark"/>
     </a>
   </div>
     
@@ -31,14 +31,17 @@
   <h3>Languages and Tools:</h3>  
   <div><br>
     <a href="https://github.com/eduardoviega">
-      <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-      <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+      <img align="center" alt="Java" height="32" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+      <img align="center" alt="C" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg">
       <img align="center" alt="Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
       <img align="center" alt="Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
       <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-      <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <img align="center" alt="NodeJs" height="35" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> 
+      <img align="center" alt="Postgres" height="35" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"> 
+      <img align="center" alt="Python" height="35" width="47" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
       <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> 
-      <img align="center" alt="Handlebars" height="40" width="50" src="https://user-images.githubusercontent.com/62398226/177208445-cf07cf78-8211-4584-81ec-9192051092e2.svg">
+      <img align="center" alt="Git" height="30" width="40" src="https://camo.githubusercontent.com/b7ea09b0c030ae14623cfc3a52ab3ee0d07e0259a1b230139e65ba00454327c9/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6769742d73636d2d69636f6e2e737667"> 
+      <img align="center" alt="Handlebars" height="40" width="50" src="https://user-images.githubusercontent.com/62398226/177208445-cf07cf78-8211-4584-81ec-9192051092e2.svg">      
     </a>
   </div>
 
