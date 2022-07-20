@@ -6,15 +6,15 @@
   
   ##
       
--Software test analyst at Leigado;
+- Software test analyst at Leigado;
 
--Studying Software Engineering at UTFPR-DV;
+- Studying Software Engineering at UTFPR-DV;
 
--Computer Technician for the Internet at IFSC;
+- Computer Technician for the Internet at IFSC;
 
--Advanced level of English;
+- Advanced level of English;
 
--Knowledge about languages Java, C, HTML, CSS, JavaScript, Python and prototyping with Figma.
+- Knowledge about languages HTML, CSS, JavaScript, TypeScript, Java, C and prototyping with Figma.
     
   ##
   
@@ -22,7 +22,7 @@
   <div>
     <a href="https://github.com/eduardoviega">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoViega&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoViega&layout=compact&langs_count=7&theme=github_dark"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoViega&layout=compact&langs_count=8&theme=github_dark"/>
     </a>
   </div>
     
@@ -33,10 +33,12 @@
     <a href="https://github.com/eduardoviega">
       <img align="center" alt="Java" height="32" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
       <img align="center" alt="C" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg">
-      <img align="center" alt="Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-      <img align="center" alt="Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+      <img align="center" alt="Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
+      <img align="center" alt="Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
       <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+      <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
       <img align="center" alt="NodeJs" height="35" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> 
+      <img align="center" alt="Postman" height="30" width="30" src="https://user-images.githubusercontent.com/62398226/177898358-7d76dc0c-4e21-4d46-8c56-8b7bbd5d0035.png"> 
       <img align="center" alt="Postgres" height="35" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"> 
       <img align="center" alt="Python" height="35" width="47" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
       <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> 
@@ -44,7 +46,7 @@
       <img align="center" alt="Handlebars" height="40" width="50" src="https://user-images.githubusercontent.com/62398226/177208445-cf07cf78-8211-4584-81ec-9192051092e2.svg">      
     </a>
   </div>
-
+  
   ##
 
   <h3>Connect with me:</h3>  
