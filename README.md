@@ -5,18 +5,7 @@
 </div>
   
   ##
-      
-- Software test analyst at Leigado;
-
-- Studying Software Engineering at UTFPR-DV;
-
-- Computer Technician for the Internet at IFSC;
-
-- Advanced level of English;
-
-- Knowledge about languages HTML, CSS, JavaScript, TypeScript, Java, C and prototyping with Figma.
-    
-  ##
+  <br>
   
 <div align="center">
   <div>
