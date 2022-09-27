@@ -33,8 +33,7 @@
       <img align="center" alt="Postgres" height="35" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"> 
       <img align="center" alt="Python" height="35" width="47" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
       <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> 
-      <img align="center" alt="Git" height="30" width="40" src="https://camo.githubusercontent.com/b7ea09b0c030ae14623cfc3a52ab3ee0d07e0259a1b230139e65ba00454327c9/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6769742d73636d2d69636f6e2e737667"> 
-      <img align="center" alt="Handlebars" height="40" width="50" src="https://user-images.githubusercontent.com/62398226/177208445-cf07cf78-8211-4584-81ec-9192051092e2.svg">      
+      <img align="center" alt="Git" height="30" width="40" src="https://camo.githubusercontent.com/b7ea09b0c030ae14623cfc3a52ab3ee0d07e0259a1b230139e65ba00454327c9/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6769742d73636d2d69636f6e2e737667">     
     </a>
   </div>
   
