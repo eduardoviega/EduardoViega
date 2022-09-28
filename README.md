@@ -11,7 +11,7 @@
   <div>
     <a href="https://github.com/eduardoviega">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoViega&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoViega&hide=python,handlebars,c,swift,kotlin,objective-c&layout=compact&langs_count=10&theme=github_dark"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoViega&hide=python,handlebars,c,typescript,swift,kotlin,objective-c,shell,blade&layout=compact&langs_count=6&theme=github_dark"/>
     </a>
   </div>
     
@@ -20,10 +20,11 @@
   <h3>Languages and Tools:</h3>  
   <div><br>
     <a href="https://github.com/eduardoviega">
-      <img align="center" alt="Java" height="32" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
       <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"> 
-      <img align="center" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"> 
-      <img align="center" alt="C" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg">
+      <img align="center" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+      <img align="center" alt="PHP" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+      <img align="center" alt="C" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg">
+      <img align="center" alt="Java" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
       <img align="center" alt="Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
       <img align="center" alt="Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
       <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
