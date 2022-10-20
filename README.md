@@ -43,12 +43,13 @@
   
   <h3>Tools:</h3>  
   <div><br>
-    <a href="https://github.com/eduardoviega"><img align="center" alt="Git" height="30" width="45" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" />
-      <img align="center" alt="Git" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+    <a href="https://github.com/eduardoviega">
+      <img align="center" alt="VsCode" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+      <img align="center" alt="AndroidStudio" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
       <img align="center" alt="Postgres" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
       <img align="center" alt="Figma" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
       <img align="center" alt="Postman" height="30" width="30" src="https://user-images.githubusercontent.com/62398226/177898358-7d76dc0c-4e21-4d46-8c56-8b7bbd5d0035.png"> 
-      <img align="center" alt="Git" height="30" width="45" src="https://camo.githubusercontent.com/b7ea09b0c030ae14623cfc3a52ab3ee0d07e0259a1b230139e65ba00454327c9/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6769742d73636d2d69636f6e2e737667">
+      <img align="center" alt="Git" height="30" width="50" src="https://camo.githubusercontent.com/b7ea09b0c030ae14623cfc3a52ab3ee0d07e0259a1b230139e65ba00454327c9/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6769742d73636d2d69636f6e2e737667">
     </a>
   </div>
   
