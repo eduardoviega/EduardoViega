@@ -41,15 +41,25 @@
     </a>
   </div>
   
+  <h3>Databases:</h3>
+  <div><br>
+    <a href="https://github.com/eduardoviega">
+      <img align="center" alt="SQlite" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg">
+      <img align="center" alt="PostgreSQL" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
+      <img align="center" alt="MongoDB" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
+    </a>
+  </div>
+  
   <h3>Tools:</h3>  
   <div><br>
     <a href="https://github.com/eduardoviega">
       <img align="center" alt="VsCode" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-      <img align="center" alt="AndroidStudio" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg">
-      <img align="center" alt="Postgreslq" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
+      <img align="center" alt="AndroidStudio" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"> 
+      <img align="center" alt="InteliJ" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">
       <img align="center" alt="Figma" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
       <img align="center" alt="Postman" height="35" width="35" src="https://user-images.githubusercontent.com/62398226/177898358-7d76dc0c-4e21-4d46-8c56-8b7bbd5d0035.png"> 
       <img align="center" alt="Git" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+      <img align="center" alt="Firebase" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg">
     </a>
   </div>
   
@@ -61,7 +71,4 @@
     <a href = "mailto:eduardoviega12@gmail.com"><img src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" height="27" width="38" target="_blank"></a> 
     <a href="https://www.instagram.com/eduardooviega/" rel="noopener"><img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" height="30" width="55" target="_blank"></a>
   </div>
-  
-  ![snake gif](https://github.com/EduardoViega/EduardoViega/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
